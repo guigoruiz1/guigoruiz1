@@ -15,4 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-###### tags: Personal, Public
+🌱 I’m currently learning swift  
+😄 Pronouns: He/Him
+
+###### tags: `Personal` `Public`
