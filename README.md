@@ -1,8 +1,7 @@
 ---
 tags: Personal, Public
 ---
-
-### Hi there 👋
+# Hi there 👋
 
 <!--
 **guigoruiz1/guigoruiz1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
