@@ -1,3 +1,7 @@
+---
+tags: Personal, Public
+---
+
 ### Hi there 👋
 
 <!--
