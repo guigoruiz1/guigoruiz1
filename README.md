@@ -18,7 +18,8 @@ Here are some ideas to get you started:
 🌱 I’m currently learning Swift and Flutter
 😄 Pronouns: He/Him
 
-[![Guigoruiz1's GitHub stats](https://github-readme-stats.vercel.app/api?username=Guigoruiz1&hide_title=true)](https://github.com/Guigoruiz1/github-readme-stats)
+![Stats](./profile/stats.svg)
+<!-- [![Guigoruiz1's GitHub stats](https://github-readme-stats.vercel.app/api?username=Guigoruiz1&hide_title=true)](https://github.com/Guigoruiz1/github-readme-stats) -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guigoruiz1&layout=compact)](https://github.com/guigoruiz1/github-readme-stats) -->
 
 ###### tags: `Personal` `Public`
