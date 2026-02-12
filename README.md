@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🌱 I’m currently learning swift  
+🌱 I’m currently learning Swift and Flutter
 😄 Pronouns: He/Him
 
 [![Guigoruiz1's GitHub stats](https://github-readme-stats.vercel.app/api?username=Guigoruiz1&hide_title=true)](https://github.com/Guigoruiz1/github-readme-stats)
